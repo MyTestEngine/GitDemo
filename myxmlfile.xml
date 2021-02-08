@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<GetCapabilities
+   service="WFS"
+   version="1.0.0"
+   xmlns="http://www.opengis.net/wfs" />
